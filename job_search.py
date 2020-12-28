@@ -1,4 +1,4 @@
-# A code to visualize and track my job search.
+# A code to visualize and track my job search. 
 
 # Jon Parsons
 # 12-15-2020
